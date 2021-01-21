@@ -1,0 +1,22 @@
+﻿body {
+    font-family: Calibri;
+    margin: 0;
+    padding: 0;
+}
+
+.status-chyba, .status-ok {
+    width: 100%;
+    text-align: center;
+    padding: 4px;
+    color: #FFF;
+}
+.status-chyba {
+    background-color: #AA0000;
+}
+.status-ok {
+    background-color: #00AA00;
+}
+
+#obsah {
+    margin: 10px;
+}
